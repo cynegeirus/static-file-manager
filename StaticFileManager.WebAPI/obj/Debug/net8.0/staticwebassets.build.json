@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "mb5R75sUuc5vb2IXmj6gc59wMqGEUvThDCP/l6y2mFw=",
+  "Source": "StaticFileManager.WebAPI",
+  "BasePath": "_content/StaticFileManager.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StaticFileManager.WebAPI\\wwwroot",
+      "Source": "StaticFileManager.WebAPI",
+      "ContentRoot": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\wwwroot\\",
+      "BasePath": "_content/StaticFileManager.WebAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\wwwroot\\uploads\\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "SourceId": "StaticFileManager.WebAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\wwwroot\\",
+      "BasePath": "_content/StaticFileManager.WebAPI",
+      "RelativePath": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08#[.{fingerprint}]?.docx",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zp3rkzm7n7",
+      "Integrity": "aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "AssetFile": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\wwwroot\\uploads\\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Sep 2024 20:42:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.zp3rkzm7n7.docx",
+      "AssetFile": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\wwwroot\\uploads\\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Sep 2024 20:42:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp3rkzm7n7"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg="
+        }
+      ]
+    }
+  ]
+}

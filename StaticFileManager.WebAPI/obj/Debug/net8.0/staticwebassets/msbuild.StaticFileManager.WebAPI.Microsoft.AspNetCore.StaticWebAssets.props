@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx'))">
+      <SourceType>Package</SourceType>
+      <SourceId>StaticFileManager.WebAPI</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/StaticFileManager.WebAPI</BasePath>
+      <RelativePath>uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zp3rkzm7n7</Fingerprint>
+      <Integrity>aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

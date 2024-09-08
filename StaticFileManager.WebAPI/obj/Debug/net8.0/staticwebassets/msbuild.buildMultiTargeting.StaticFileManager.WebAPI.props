@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\StaticFileManager.WebAPI.props" />
+</Project>

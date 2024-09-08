@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\wwwroot\\uploads\\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "PackagePath": "staticwebassets\\uploads\\699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StaticFileManager.WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StaticFileManager.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StaticFileManager.WebAPI.props",
+      "PackagePath": "build\\StaticFileManager.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StaticFileManager.WebAPI.props",
+      "PackagePath": "buildMultiTargeting\\StaticFileManager.WebAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StaticFileManager.WebAPI.props",
+      "PackagePath": "buildTransitive\\StaticFileManager.WebAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "Endpoints": [
+    {
+      "Route": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "AssetFile": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Sep 2024 20:42:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.zp3rkzm7n7.docx",
+      "AssetFile": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "282548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Sep 2024 20:42:29 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zp3rkzm7n7"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aZRVy9sWBnGaKL0Dxr9ek0wdccxhiPPtZY87JJsHfQg="
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/699455cbdb1606719a28bd03c6bf5e934c1d71cc6188f3ed658f3b249b077d08.docx"
+        }
+      ]
+    }
+  ]
+}

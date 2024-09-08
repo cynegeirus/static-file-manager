@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "StaticFileManager.WebAPI.Controllers.FileManagerController",
+    "Method": "Download",
+    "RelativePath": "api/FileManager/Download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hash",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StaticFileManager.WebAPI.Controllers.FileManagerController",
+    "Method": "Upload",
+    "RelativePath": "api/FileManager/Upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "file",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StaticFileManager.WebAPI.Controllers.WelcomeController",
+    "Method": "Get",
+    "RelativePath": "Welcome",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\StaticFileManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|d:\\projects\\staticfilemanager\\staticfilemanager.webapi\\controllers\\filemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|solutionrelative:staticfilemanager.webapi\\controllers\\filemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|d:\\projects\\staticfilemanager\\staticfilemanager.webapi\\utilities\\helpers\\blockchainhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|solutionrelative:staticfilemanager.webapi\\utilities\\helpers\\blockchainhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|d:\\projects\\staticfilemanager\\staticfilemanager.webapi\\controllers\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|solutionrelative:staticfilemanager.webapi\\controllers\\welcomecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|d:\\projects\\staticfilemanager\\staticfilemanager.webapi\\utilities\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|solutionrelative:staticfilemanager.webapi\\utilities\\helpers\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|d:\\projects\\staticfilemanager\\staticfilemanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|solutionrelative:staticfilemanager.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|d:\\projects\\staticfilemanager\\staticfilemanager.webapi\\utilities\\helpers\\filebasedblockchainhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AAFFB1A-33BC-4FCA-8A66-A1792E886B8F}|StaticFileManager.WebAPI\\StaticFileManager.WebAPI.csproj|solutionrelative:staticfilemanager.webapi\\utilities\\helpers\\filebasedblockchainhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlockchainHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Utilities\\Helpers\\BlockchainHelper.cs",
+              "RelativeDocumentMoniker": "StaticFileManager.WebAPI\\Utilities\\Helpers\\BlockchainHelper.cs",
+              "ToolTip": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Utilities\\Helpers\\BlockchainHelper.cs",
+              "RelativeToolTip": "StaticFileManager.WebAPI\\Utilities\\Helpers\\BlockchainHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:13:21.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManagerController.cs",
+              "DocumentMoniker": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Controllers\\FileManagerController.cs",
+              "RelativeDocumentMoniker": "StaticFileManager.WebAPI\\Controllers\\FileManagerController.cs",
+              "ToolTip": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Controllers\\FileManagerController.cs",
+              "RelativeToolTip": "StaticFileManager.WebAPI\\Controllers\\FileManagerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:09:40.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileBasedBlockchainHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Utilities\\Helpers\\FileBasedBlockchainHelper.cs",
+              "RelativeDocumentMoniker": "StaticFileManager.WebAPI\\Utilities\\Helpers\\FileBasedBlockchainHelper.cs",
+              "ToolTip": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Utilities\\Helpers\\FileBasedBlockchainHelper.cs",
+              "RelativeToolTip": "StaticFileManager.WebAPI\\Utilities\\Helpers\\FileBasedBlockchainHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T20:02:34.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Utilities\\Helpers\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "StaticFileManager.WebAPI\\Utilities\\Helpers\\SecurityHelper.cs",
+              "ToolTip": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Utilities\\Helpers\\SecurityHelper.cs",
+              "RelativeToolTip": "StaticFileManager.WebAPI\\Utilities\\Helpers\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:19:07.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StaticFileManager.WebAPI\\Program.cs",
+              "ToolTip": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Program.cs",
+              "RelativeToolTip": "StaticFileManager.WebAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:16:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WelcomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Controllers\\WelcomeController.cs",
+              "RelativeDocumentMoniker": "StaticFileManager.WebAPI\\Controllers\\WelcomeController.cs",
+              "ToolTip": "D:\\Projects\\StaticFileManager\\StaticFileManager.WebAPI\\Controllers\\WelcomeController.cs",
+              "RelativeToolTip": "StaticFileManager.WebAPI\\Controllers\\WelcomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T16:12:48.616Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
